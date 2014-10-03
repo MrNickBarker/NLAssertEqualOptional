@@ -1,6 +1,6 @@
 # NLAssertEqualOptional
 
-Easy way to test optionals in Swift. More info: 
+Easy way to test optionals in Swift. More info: https://blog.codecentric.de/en/2014/10/extending-xctestcase-testing-swift-optionals/
 
 ## Usage
 
